@@ -1,0 +1,22 @@
+{
+  "name": "agentic-bootstrap",
+  "version": "0.1.0",
+  "description": "A framework for measuring persona-induced bias in AI analytical agents.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "agentic_bootstrap": "codes/agentic_bootstrap.mjs",
+    "agboot": "codes/agentic_bootstrap.mjs"
+  },
+  "scripts": {
+    "experiment": "node codes/agentic_bootstrap.mjs",
+    "reviewer:inference": "node codes/Round1_reviewer.mjs",
+    "test": "node --test codes/tests/*.test.mjs && python3 -m unittest discover -s codes/tests -p 'test_*.py'"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.1.0"
+  },
+  "license": "MIT"
+}

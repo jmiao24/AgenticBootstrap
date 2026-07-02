@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 382.87 64.00" width="382.87" height="64.00" role="img" aria-label="Agentic Bootstrap">
+<g fill="none" stroke="#1b2430" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M6.00,30.64 L29.44,30.64"/>
+  <path d="M29.44,30.64 L44.38,22.58"/>
+  <path d="M44.38,22.58 L49.90,12.29"/>
+  <path d="M49.90,12.29 L50.34,4.00"/>
+  <path d="M49.90,12.29 L57.39,8.79"/>
+  <path d="M44.38,22.58 L57.89,23.87"/>
+  <path d="M57.89,23.87 L66.87,19.46"/>
+  <path d="M57.89,23.87 L65.51,30.76"/>
+  <path d="M55.36,39.19 L63.21,44.31"/>
+  <path d="M43.22,39.46 L47.46,50.99"/>
+  <path d="M47.46,50.99 L54.78,57.25"/>
+  <path d="M47.46,50.99 L46.64,60.00"/>
+
+</g>
+<g fill="none" stroke="#D97757" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M29.44,30.64 L43.22,39.46"/>
+  <path d="M43.22,39.46 L55.36,39.19"/>
+  <path d="M55.36,39.19 L62.07,34.20"/>
+
+</g>
+<text x="82.87" y="44" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#1b2430">Agentic Bootstrap</text>
+</svg>

@@ -1,0 +1,53 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1531.49 256.00] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 683 >>
+stream
+1 J 1 j
+6.00 w
+0.106 0.141 0.188 RG
+24.00 133.44 m 117.74 133.44 l S
+117.74 133.44 m 177.52 165.67 l S
+177.52 165.67 m 199.60 206.83 l S
+199.60 206.83 m 201.36 240.00 l S
+199.60 206.83 m 229.56 220.84 l S
+177.52 165.67 m 231.56 160.53 l S
+231.56 160.53 m 267.49 178.17 l S
+231.56 160.53 m 262.03 132.97 l S
+221.46 99.24 m 252.84 78.76 l S
+172.86 98.16 m 189.85 52.05 l S
+189.85 52.05 m 219.12 27.01 l S
+189.85 52.05 m 186.57 16.00 l S
+0.106 0.141 0.188 RG
+0.851 0.467 0.341 RG
+117.74 133.44 m 172.86 98.16 l S
+172.86 98.16 m 221.46 99.24 l S
+221.46 99.24 m 248.28 119.19 l S
+0.851 0.467 0.341 RG
+BT /F1 136.00 Tf 0.106 0.141 0.188 rg 1 0 0 1 331.49 80.00 Tm (Agentic Bootstrap) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000248 00000 n 
+0000000982 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1057
+%%EOF

@@ -1,0 +1,7 @@
+{
+  "pro":      "holds a strong prior, grounded in their reading of the literature, that the exposure has a real and beneficial (positive) effect on the outcome",
+  "anti":     "holds a strong prior, grounded in their reading of the literature, that the exposure has a real and harmful (negative) effect on the outcome",
+  "neutral":  "holds no strong prior about the direction or existence of the effect and aims to let the data speak for itself",
+  "believer": "is convinced, based on their reading of the literature, that the effect is real and substantial -- a strong, non-zero relationship between exposure and outcome",
+  "skeptic":  "is convinced, based on their reading of the literature, that the effect is negligible or non-existent once the data are analyzed carefully"
+}

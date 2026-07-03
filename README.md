@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-`Agentic Bootstrap` runs a team of AI agents on your dataset, each assigned a different prior-belief persona to simulate virtual researchers. The agents independently answer the same research question, revealing how much a conclusion depends on defensible analytical choices.
+`Agentic Bootstrap` runs a team of AI agents on your dataset, each assigned a different prior-belief persona to simulate virtual researchers. The agents independently answer the same research question, revealing how much a conclusion depends on defensible analytical choices and see the whole agentic garden of forking paths.
 
 You provide a research question and a dataset in CSV format. You get back each agent’s reported finding and every analysis specification it explored along the way, all saved as CSVs for easy comparison.
 
@@ -125,9 +125,13 @@ the m-value of a claim (the fraction of defensible analyses at least as extreme)
 
 ```bibtex
 @article{miao2026agentic,
-  title  = {The Agentic Garden of Forking Paths},
-  author = {Miao, Jiacheng and Pritchard, Jonathan K. and Zou, James},
-  year   = {2026}
+  title         = {The Agentic Garden of Forking Paths},
+  author        = {Miao, Jiacheng and Pritchard, Jonathan K. and Zou, James},
+  year          = {2026},
+  eprint        = {2607.01507},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  journal       = {arXiv preprint arXiv:2607.01507}
 }
 ```
 
